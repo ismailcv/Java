@@ -1,2 +1,2 @@
 # PatientBedReservation
-java
+My first project with java.
